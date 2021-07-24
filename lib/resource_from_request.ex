@@ -1,4 +1,4 @@
-defmodule Enron.Plug.ResourceFromRequest do
+defmodule ResourceFromRequest do
   @moduledoc """
   Set a private value for a chosen resource type
   """
